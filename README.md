@@ -14,3 +14,4 @@ the game, and
 7. The game will go-on until unless all the players allotted numbers are used.
 
 ## Game Overview (Initial Stage):
+![alt text](https://github.com/codeholmes/Tic-Tac-Toe-Number-Edition/blob/master/Images/Game_overview_1.png)
