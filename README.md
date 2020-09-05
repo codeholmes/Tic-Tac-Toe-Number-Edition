@@ -10,7 +10,7 @@ their respective odd or even allotted number,
 4. Each player gets alternative turn,
 5. The number can't be repeated,
 6.The player who's three number sum is 15, and max number of 15 sum, wins
-the game, and
+the game,
 7. The game will go-on until unless all the players allotted numbers are used.
 
 ## Game Overview (Initial Stage):
